@@ -33,6 +33,7 @@ y = a + b*x + ε
 
 Решения (Рис. 3):
 <div align="center">
+  <img src="https://raw.githubusercontent.com/Olegoria3538/linear-regression/main/images/min-error.png"  />
   <img src="https://raw.githubusercontent.com/Olegoria3538/linear-regression/main/images/mnk-algebra.jpg"  />
   <div>Рис. 3</div>
 </div>
